@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pawfect-studio.com/sitemap.xml
