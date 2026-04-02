@@ -217,7 +217,7 @@ export const translations = {
       en: 'Grooming tips, pet wellness and salon news — written by our team of passionate experts.',
     },
     readTime:  { fr: 'min de lecture', en: 'min read' },
-    backLink:  { fr: '← Retour au blog', en: '← Back to blog' },
+    backLink:  { fr: 'Retour au blog', en: 'Back to blog' },
     articles: [
       {
         slug: 'preparer-chien-toilettage',
